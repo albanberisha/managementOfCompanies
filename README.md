@@ -1,4 +1,4 @@
-# php-admin-panel-template
+# Managing and creating appointments for company
 
 
 Appointment management
